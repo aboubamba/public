@@ -171,4 +171,3 @@ auditpol /set /subcategory:{0CCE9228-69AE-11D9-BED3-505054503030} /success:enabl
 :: auditpol /set /subcategory:{0CCE9211-69AE-11D9-BED3-505054503030} /success:enable /failure:enable
 :::: System Integrity
 :: auditpol /set /subcategory:{0CCE9212-69AE-11D9-BED3-505054503030} /success:enable /failure:enable
-Enable-MMAgent -ApplicationLaunchPrefetching
